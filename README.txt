@@ -1,5 +1,26 @@
 BANKIST Project:
 
+What can you do?
+  . Login with one of the users bellow.
+  . Check current balance, movements, income, outcome and interest rates.
+  . Transfer money between accounts (indicate user and amount).
+  . Request a loan (only available for amounts inferior to 10% of the biggest movement).
+  . Close an account (indicate user and PIN)
+
+.NOTES:Existing accounts:
+  . Jonas's Account:
+    User: 'js' (lower case) / Pass: '1111'
+  
+  . Jessica's Account:
+    User: 'jd' (lower case) / Pass: '2222'
+
+  . Steven's Account:
+    User: 'stw' (lower case) / Pass: '3333'
+
+  . Sarah's Account:
+    User: 'ss' (lower case) / Pass: '4444'
+    
+
 ____________________________________________________________________________________________________________________________
 
 Start:
